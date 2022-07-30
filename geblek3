@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="DistroTV_Beautiful Planet" group-title="🔵Channel Request 📋" tvg-logo="https://a.jsrdn.com/hls/23007/beautiful-planet/logo_20211215_193401_68.png",Beautiful Planet
+https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/LC1BU9QFPYKMOGW05QR2/hls3/now_-1m_15s/m.m3u8
